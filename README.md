@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&psig=AOvVaw3bn23LtO2vFLBoyHnfhrlc&ust=1668328989234000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDVyPefqPsCFQAAAAAdAAAAABAE">
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
