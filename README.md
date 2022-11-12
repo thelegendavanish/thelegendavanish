@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" align="center"></p>
+<p  align="center"><img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"></p>
