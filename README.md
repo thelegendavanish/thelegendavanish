@@ -44,3 +44,10 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thelegendavanish&" alt="thelegendavanish" /></p>
 
+
+![Snake animation]https://github.com/panditajay73/panditajay73/blob/main/github-contribution-grid-snake.svg
+![Snake animation](https://github.com/panditajay73/panditajay73/blob/main/github-contribution-grid-snake.svg)
+
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
