@@ -5,11 +5,11 @@
  -->
  🌱 **About Myself**<br> 
 
-✔️ I am **Avanish Kumar**, currently pursuing my bachelors from **KIET Group of Institutions, Ghaziabad** in **Information Technology**. <br>
+✔️ I am **Avanish Kumar**, currently pursuing my bachelors from **KIET Group of Institutions, Delhi-NCR** in **Information Technology**. <br>
 
 ✔️ I have experience in **Cyber Security** .<br>
 
-✔️ I have experience in **Python Technology** .<br>
+✔️ I have experience in **Python,Shell Scripting etc.** .<br>
  
 
 <p  align="center"><img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"></p>
