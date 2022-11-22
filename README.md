@@ -42,13 +42,13 @@
  <hr>
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=panditajay73&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thelegendavanish&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
 
 ---
  
 <!-- ACTIVITY GRAPH TRACKER -->
-[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=panditajay73&theme=react-dark)](https://github.com/panditajay73/github-readme-activity-graph)
+[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=thelegendavanish&theme=react-dark)](https://github.com/thelegendavanish/github-readme-activity-graph)
 
 ---
   </code>
