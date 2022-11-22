@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 
 ![Snake animation]https://github.com/panditajay73/panditajay73/blob/main/github-contribution-grid-snake.svg
-![Snake animation](https://github.com/panditajay73/panditajay73/blob/main/github-contribution-grid-snake.svg)
 
+<h2 align="center">Please Visit: <a href="https://www.thelegendavanish.online">Thelegendavanish.online</a>
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
