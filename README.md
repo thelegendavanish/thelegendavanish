@@ -3,6 +3,14 @@
 <!--
 **thelegendavanish/thelegendavanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
+ 🌱 **About Myself**<br> 
+
+✔️ I am **Avanish Kumar**, currently pursuing my bachelors from **KIET Group of Institutions, Ghaziabad** in **Information Technology**. <br>
+
+✔️ I have experience in **Cyber Security** .<br>
+
+✔️ I have experience in **Python Technology** .<br>
+ 
 
 <p  align="center"><img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"></p>
 
