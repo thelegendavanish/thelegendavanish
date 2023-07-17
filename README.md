@@ -55,7 +55,7 @@
 
 ![Snake animation](https://github.com/panditajay73/panditajay73/blob/main/github-contribution-grid-snake.svg)
 
-<h2 align="center">Please Visit: <a href="https://www.thelegendavanish.online">Thelegendavanish.online</a>
+<h2 align="center">Please Visit: <a href="https://www.thelegendavanish.tech">Thelegendavanish.tech</a>
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
