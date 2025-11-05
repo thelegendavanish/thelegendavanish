@@ -1,8 +1,3 @@
-<!-- 🌐 Modern GitHub Profile README for Avanish Kumar -->
-<!-- Crafted with ❤️ by HackWithEthics -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=120&section=header"/>
-
 <h1 align="center">👋 Hey, I'm <span style="color:#00FFFF">Avanish Kumar</span></h1>
 <h3 align="center">🚀 Cybersecurity Researcher | Digital Forensics Specialist </h3>
 
